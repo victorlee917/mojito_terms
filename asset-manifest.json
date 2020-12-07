@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.js": "/mojito_terms/static/js/main.817a0235.chunk.js",
-    "main.js.map": "/mojito_terms/static/js/main.817a0235.chunk.js.map",
+    "main.js": "/mojito_terms/static/js/main.99ba7adc.chunk.js",
+    "main.js.map": "/mojito_terms/static/js/main.99ba7adc.chunk.js.map",
     "runtime-main.js": "/mojito_terms/static/js/runtime-main.bbb6ff57.js",
     "runtime-main.js.map": "/mojito_terms/static/js/runtime-main.bbb6ff57.js.map",
-    "static/js/2.77d86585.chunk.js": "/mojito_terms/static/js/2.77d86585.chunk.js",
-    "static/js/2.77d86585.chunk.js.map": "/mojito_terms/static/js/2.77d86585.chunk.js.map",
+    "static/js/2.a3f4ddc8.chunk.js": "/mojito_terms/static/js/2.a3f4ddc8.chunk.js",
+    "static/js/2.a3f4ddc8.chunk.js.map": "/mojito_terms/static/js/2.a3f4ddc8.chunk.js.map",
     "index.html": "/mojito_terms/index.html",
-    "static/js/2.77d86585.chunk.js.LICENSE.txt": "/mojito_terms/static/js/2.77d86585.chunk.js.LICENSE.txt"
+    "static/js/2.a3f4ddc8.chunk.js.LICENSE.txt": "/mojito_terms/static/js/2.a3f4ddc8.chunk.js.LICENSE.txt",
+    "static/media/logo.a0181f77.png": "/mojito_terms/static/media/logo.a0181f77.png",
+    "static/media/mojito.6bcd6c20.png": "/mojito_terms/static/media/mojito.6bcd6c20.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bbb6ff57.js",
-    "static/js/2.77d86585.chunk.js",
-    "static/js/main.817a0235.chunk.js"
+    "static/js/2.a3f4ddc8.chunk.js",
+    "static/js/main.99ba7adc.chunk.js"
   ]
 }
