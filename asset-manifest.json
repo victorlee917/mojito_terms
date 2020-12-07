@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/mojito_terms/static/js/main.da4b4556.chunk.js",
-    "main.js.map": "/mojito_terms/static/js/main.da4b4556.chunk.js.map",
+    "main.js": "/mojito_terms/static/js/main.aa6284c9.chunk.js",
+    "main.js.map": "/mojito_terms/static/js/main.aa6284c9.chunk.js.map",
     "runtime-main.js": "/mojito_terms/static/js/runtime-main.bbb6ff57.js",
     "runtime-main.js.map": "/mojito_terms/static/js/runtime-main.bbb6ff57.js.map",
-    "static/js/2.29e8310c.chunk.js": "/mojito_terms/static/js/2.29e8310c.chunk.js",
-    "static/js/2.29e8310c.chunk.js.map": "/mojito_terms/static/js/2.29e8310c.chunk.js.map",
+    "static/js/2.05bff414.chunk.js": "/mojito_terms/static/js/2.05bff414.chunk.js",
+    "static/js/2.05bff414.chunk.js.map": "/mojito_terms/static/js/2.05bff414.chunk.js.map",
     "index.html": "/mojito_terms/index.html",
-    "static/js/2.29e8310c.chunk.js.LICENSE.txt": "/mojito_terms/static/js/2.29e8310c.chunk.js.LICENSE.txt"
+    "static/js/2.05bff414.chunk.js.LICENSE.txt": "/mojito_terms/static/js/2.05bff414.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bbb6ff57.js",
-    "static/js/2.29e8310c.chunk.js",
-    "static/js/main.da4b4556.chunk.js"
+    "static/js/2.05bff414.chunk.js",
+    "static/js/main.aa6284c9.chunk.js"
   ]
 }
